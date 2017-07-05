@@ -13,7 +13,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/eandre/discover"
+	"github.com/lanzafame/discover"
 	"golang.org/x/tools/cover"
 )
 
